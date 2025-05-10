@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain-community>=0.0.30
+langchain-core>=0.1.30
+langchain>=0.1.10
+chromadb>=0.4.22
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+accelerate>=0.21.0
+python-dotenv
+requests
+openai-whisper>=20231117
+python-multipart>=0.0.9
